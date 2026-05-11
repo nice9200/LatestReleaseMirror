@@ -2,4 +2,7 @@
 
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
+ masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_ARM64.zip|MasterDnsVPN_Client_Windows_AMD64.zip|MasterDnsVPN_Client_Termux_ARM64.zip
+
+
 
