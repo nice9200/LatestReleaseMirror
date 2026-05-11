@@ -1,0 +1,7 @@
+{
+  "tag": "v2026.05.10.180256-27c7e11",
+  "status": "stable",
+  "published_at": "2026-05-10T18:05:23Z",
+  "filter_pattern": "MasterDnsVPN_Client_Windows_ARM64.zip|MasterDnsVPN_Client_Windows_AMD64.zip|MasterDnsVPN_Client_Termux_ARM64.zip",
+  "updated_at": "2026-05-11T12:07:26Z"
+}
