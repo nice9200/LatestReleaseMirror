@@ -157,5 +157,15 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="masterking32--masterdnsvpn"></div>
 
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.10.180256-27c7e11</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.10.180256-27c7e11)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_Termux_ARM64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_ARM64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_ARM64.zip) |
 <!-- RELEASES_END -->
