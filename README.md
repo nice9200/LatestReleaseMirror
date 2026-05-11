@@ -157,6 +157,39 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="hidden-node--masterdnsvpn-androidclient"></div>
+
+### Hidden-Node--MasterDnsVPN-AndroidClient
+
+🔗 [source](https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient) – [<code><small>v1.2.3</small></code>](https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient/releases/tag/v1.2.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `masterdnsvpn-HN-1.2.3-arm64-v8a-release.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-arm64-v8a-release.apk) |
+| `masterdnsvpn-HN-1.2.3-armeabi-v7a-release.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-armeabi-v7a-release.apk) |
+| `masterdnsvpn-HN-1.2.3-release.aar` | 35.4 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-release.aar) |
+| `masterdnsvpn-HN-1.2.3-universal-release.apk` | 37.1 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-universal-release.apk) |
+| `masterdnsvpn-HN-1.2.3-x86-release.apk` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-x86-release.apk) |
+| `masterdnsvpn-HN-1.2.3-x86_64-release.apk` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-x86_64-release.apk) |
+
+---
+
+<div id="revocgg--masterdnsvpn-androidgg"></div>
+
+### RevocGG--MasterDnsVPN-AndroidGG
+
+🔗 [source](https://github.com/RevocGG/MasterDnsVPN-AndroidGG) – [<code><small>v1.0.9</small></code>](https://github.com/RevocGG/MasterDnsVPN-AndroidGG/releases/tag/v1.0.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN-GG-1.0.9-arm64-v8a.apk` | 13.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-arm64-v8a.apk) |
+| `MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk` | 12.5 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk) |
+| `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
+| `MasterDnsVPN-GG-1.0.9-x86.apk` | 12.7 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-x86.apk) |
+| `MasterDnsVPN-GG-1.0.9-x86_64.apk` | 13.6 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-x86_64.apk) |
+
+---
+
 <div id="masterking32--masterdnsvpn"></div>
 
 ### masterking32--MasterDnsVPN
