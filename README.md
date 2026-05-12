@@ -178,15 +178,15 @@ sha256sum FILE_NAME
 
 ### RevocGG--MasterDnsVPN-AndroidGG
 
-🔗 [source](https://github.com/RevocGG/MasterDnsVPN-AndroidGG) – [<code><small>v1.0.9</small></code>](https://github.com/RevocGG/MasterDnsVPN-AndroidGG/releases/tag/v1.0.9)
+🔗 [source](https://github.com/RevocGG/MasterDnsVPN-AndroidGG) – [<code><small>v1.1.0</small></code>](https://github.com/RevocGG/MasterDnsVPN-AndroidGG/releases/tag/v1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `MasterDnsVPN-GG-1.0.9-arm64-v8a.apk` | 13.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-arm64-v8a.apk) |
-| `MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk` | 12.5 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk) |
-| `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
-| `MasterDnsVPN-GG-1.0.9-x86.apk` | 12.7 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-x86.apk) |
-| `MasterDnsVPN-GG-1.0.9-x86_64.apk` | 13.6 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-x86_64.apk) |
+| `MasterDnsVPN-GG-1.1.0-arm64-v8a.apk` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.1.0-arm64-v8a.apk) |
+| `MasterDnsVPN-GG-1.1.0-armeabi-v7a.apk` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.1.0-armeabi-v7a.apk) |
+| `MasterDnsVPN-GG-1.1.0-universal.apk` | 57.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.1.0-universal.apk) |
+| `MasterDnsVPN-GG-1.1.0-x86.apk` | 24.2 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.1.0-x86.apk) |
+| `MasterDnsVPN-GG-1.1.0-x86_64.apk` | 25.1 MB | [⬇️ Download](https://raw.githubusercontent.com/nice9200/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.1.0-x86_64.apk) |
 
 ---
 
