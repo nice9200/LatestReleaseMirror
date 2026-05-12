@@ -5,7 +5,7 @@
 masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_ARM64.zip|MasterDnsVPN_Client_Windows_AMD64.zip|MasterDnsVPN_Client_Termux_ARM64.zip
 Hidden-Node/MasterDnsVPN-AndroidClient
 RevocGG/MasterDnsVPN-AndroidGG
-
+therealaleph/MasterHttpRelayVPN-RUST
 
 
 
